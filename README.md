@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[httpsgithub.comEmanzehrahelenEmanzehrahelenblobmainbanner.png](https://chatgpt.com/s/m_68dd44facab88191b9920ae1b0daf0da)" alt="Banner" width="1280" />
-</p>
+![logo](https://github.com/Helen625-code/Helen625-code/blob/main/AI%20Enthusiast%20Banner%20Design.png)
 
 <br>
 <h1 align="center">Hi 👋, I'm EmanZeharaHelen</h1>
