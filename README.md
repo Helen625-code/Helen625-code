@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Emanzehrahelen/Emanzehrahelen/blob/main/banner.png" alt="Banner" width="1280" />
+</p>
 
 <br>
 <h1 align="center">Hi 👋, I'm EmanZeharaHelen</h1>
