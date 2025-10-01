@@ -1,4 +1,4 @@
-![logo](https://github.com/Helen625-code/Helen625-code/blob/main/banner.png.png))
+![logo](https://github.com/Helen625-code/Helen625-code/blob/main/banner.png.png)
 
 <br>
 <h1 align="center">Hi 👋, I'm EmanZeharaHelen</h1>
