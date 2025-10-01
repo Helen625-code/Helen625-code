@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\HP\Downloads\a degital ghrapic design banner.png" alt="Banner" width="1280" />
+  <img src="httpsgithub.comEmanzehrahelenEmanzehrahelenblobmainbanner.png" alt="Banner" width="1280" />
 </p>
 
 <br>
